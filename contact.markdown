@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre
-permalink: /about/
+title: Contato
+permalink: /contact/
 background: '/img/bg.jpg'
 ---
 
